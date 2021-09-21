@@ -52,7 +52,7 @@ Steps:
 
 **Double click on certificate , click on always trust.**
 
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 Run Spring boot app
 
